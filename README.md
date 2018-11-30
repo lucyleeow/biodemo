@@ -1,4 +1,5 @@
 [![travis](https://travis-ci.org/lucyleeow/biodemo.svg?branch=master)](https://travis-ci.org/lucyleeow/biodemo)
+[![codecov](https://codecov.io/github/lucyleeow/biodemo/branch/master/graphs/badge.svg)](https://codecov.io/github/lucyleeow/biodemo)
 
 # Overview 
 
